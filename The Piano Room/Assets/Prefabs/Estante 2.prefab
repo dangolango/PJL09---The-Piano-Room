@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1883853750861543154
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: de6affca9c5d81d45a89859c311176d1, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.38
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: de6affca9c5d81d45a89859c311176d1, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: de6affca9c5d81d45a89859c311176d1, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -12.46
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: de6affca9c5d81d45a89859c311176d1, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: de6affca9c5d81d45a89859c311176d1, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: de6affca9c5d81d45a89859c311176d1, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: de6affca9c5d81d45a89859c311176d1, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: de6affca9c5d81d45a89859c311176d1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: de6affca9c5d81d45a89859c311176d1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: de6affca9c5d81d45a89859c311176d1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -5035148429538648142, guid: de6affca9c5d81d45a89859c311176d1, type: 3}
+      propertyPath: m_Name
+      value: Fundo 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -3865575301021521276, guid: de6affca9c5d81d45a89859c311176d1, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 2541073edaa721a43ba688a32d4f2ae3, type: 2}
+    - target: {fileID: -1934894441563503533, guid: de6affca9c5d81d45a89859c311176d1, type: 3}
+      propertyPath: m_Name
+      value: Teto 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -451128051074843989, guid: de6affca9c5d81d45a89859c311176d1, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: c159419399ccd5b4dad19b32aeb74e6b, type: 2}
+    - target: {fileID: 1766142384289642, guid: de6affca9c5d81d45a89859c311176d1, type: 3}
+      propertyPath: m_Name
+      value: Prateleiras 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: de6affca9c5d81d45a89859c311176d1, type: 3}
+      propertyPath: m_Name
+      value: Estante 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3272970185827253043, guid: de6affca9c5d81d45a89859c311176d1, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 77cb4a9612ed95547ad5e3f8548d5905, type: 2}
+    - target: {fileID: 4200481843721660918, guid: de6affca9c5d81d45a89859c311176d1, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: c2d7bdde177ed40439d36a3c7e045c1e, type: 2}
+    - target: {fileID: 4301328659844633761, guid: de6affca9c5d81d45a89859c311176d1, type: 3}
+      propertyPath: m_Name
+      value: Laterais 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6950793463474424925, guid: de6affca9c5d81d45a89859c311176d1, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: d0b0a3b2e9a3b9a44b30b7266c3b96de, type: 2}
+    - target: {fileID: 8603003838459892275, guid: de6affca9c5d81d45a89859c311176d1, type: 3}
+      propertyPath: m_Name
+      value: Armarios 2
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: de6affca9c5d81d45a89859c311176d1, type: 3}
